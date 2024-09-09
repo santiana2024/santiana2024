@@ -1,8 +1,9 @@
 Boas vindas ao meu perfil 🖤
 
-Meu nome é Ana 
+Meu nome é Ana Luíza Santi Besegato
 
-Estou estudando na Alura 
+Estou estudando na ![alura](https://www.alura.com.br/)
+
 
 Estou me desenvolvendo na linguagem JavaScript
 
