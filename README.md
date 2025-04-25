@@ -1,6 +1,6 @@
 Boas vindas ao meu perfil 🖤
 
-Meu nome é Ana Luíza Santi Besegato
+Meu nome é Ana Luíza Besegato
 
 -Estou estudando na [alura](https://www.alura.com.br/)
 
